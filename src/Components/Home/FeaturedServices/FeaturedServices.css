@@ -1,0 +1,11 @@
+.featured-services{
+    margin-bottom: 150px;
+}
+
+.featured-text h2{
+    line-height:1.5em;
+}
+.featured-text p{
+    text-align:justify;
+    line-height: 2em;
+}

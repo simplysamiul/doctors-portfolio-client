@@ -1,0 +1,22 @@
+.text-area p{
+    font-weight: 300;
+    letter-spacing:0.01em;
+}
+.text-area h1{
+    color: #313b57;
+    line-height: 1.5em;
+    font-size:700;
+    
+}
+.banner-area{
+    height: 600px;
+}
+button{
+    background-image: linear-gradient(110deg, #18D2AF 0%, #0FCFE9);
+    border: none;
+    padding:10px 30px;
+    color: #ffffff;
+    font-weight: 600;
+    letter-spacing:0.1em;
+    border-radius:5px !important;
+}

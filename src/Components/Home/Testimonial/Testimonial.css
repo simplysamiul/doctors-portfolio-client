@@ -1,0 +1,10 @@
+.testimonial{
+    background-image: url('../../../images/quote.png');
+    background-repeat: no-repeat;
+    background-position: top right;
+    background-size: 180px;;
+}
+.section-header h5{
+    color: #1CC7C1;
+    font-weight: 700;
+}

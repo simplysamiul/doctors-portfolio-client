@@ -1,0 +1,31 @@
+.make-appoinment{
+    background-image: url('../../../images/makeAppoinment.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+    height: 420px;
+    margin-bottom: 100px;
+}
+.make-appoinment::before{
+    content:  "";
+    display: block;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background: #242949;
+    opacity: .8;
+    top: 0;
+}
+.make-appoinment img{
+    height: 550px;
+    transform: translateY(-130px);
+}
+.appoinment-text{
+    padding-top: 50px;  
+}
+.appoinment-text h5{
+    color: #1CC7C1;
+}
+.appoinment-text p{
+    color: #ffffffcd;
+}
