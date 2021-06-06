@@ -28,7 +28,7 @@ const testimonialData = [
 
 const Testimonial = () => {
     return (
-        <div className="container p-5">
+        <div className="container p-5 testimonial-area">
             <div className="testimonial">
                 <div className="section-header mb-5 pb-4">
                     <h5>TESTIMONIAL</h5>
